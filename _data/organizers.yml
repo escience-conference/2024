@@ -1,0 +1,20 @@
+roles:
+  - General Chair
+  - Program Chairs
+  - Track Chairs
+  - Workshop Chairs
+  - Tutorial Chairs
+  - Poster Chairs
+  - Proceedings Chair
+  - Media Chairs
+  - Web Chair
+  - Publicity Chair
+  # - Student Volunteer Chair
+
+organizers:
+  - name: Sasumu Date
+    role: General Chair
+    institution: University of Cyprus, Cyprus
+    photo: date.png
+
+ 

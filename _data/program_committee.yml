@@ -1,0 +1,218 @@
+- name: Katerina Antypas
+  institution: Lawrence Livermore National Laboratory, USA
+
+- name: Malcolm Atkinson
+  institution: The University of Edinburgh, UK
+
+- name: Prasanna Balaprakash
+  institution: Argonne National Laboratory, USA
+
+- name: Wes Bethel
+  institution: Lawrence Berkeley National Laboratory, USA
+
+- name: Kris Bubendorfer
+  institution: Victoria University of Wellington, New Zealand
+
+# - name: Tamas Budavari
+#   institution: Johns Hopkins University, USA
+
+- name: Hans-Joachim Bungartz
+  institution: Technical University of Munich, Germany
+
+- name: Donatella Castelli
+  institution: CNR-ISTI, Italy
+
+- name: Kum-Won Cho
+  institution: KISTI Supercomputing Center, South Korea
+
+- name: Andrea Clematis
+  institution: IMATI - CNR, Italy
+
+- name: Simon Cox
+  institution: University of Southampton, UK
+
+- name: Vasa Curcin
+  institution: King's College London, UK
+
+- name: Susumu Date
+  institution: Osaka University, Japan
+
+- name: Antonella Galizia
+  institution: IMATI-CNR, Italy
+
+- name: Alberto Garcia
+  institution: ICMAB-CSIC, Spain
+
+- name: Leyla Jael Garcia
+  institution: ZB MED Information Centre for Life Sciences, Germany
+
+- name: Sandra Gesing
+  institution: University of Illinois System, USA
+
+# - name: Anna Giannakou
+#   institution: Lawrence Berkeley National Laboratory, USA
+
+- name: Madhu Govindaraju
+  institution: SUNY Binghamton, USA
+
+# - name: Ray Grout
+#   institution: National Renewable Energy Laboratory, USA
+
+- name: Tom Hacker
+  institution: Purdue University, USA
+
+# - name: Forrest Hoffman
+#   institution: Oak Ridge National Laboratory, USA
+
+- name: Jim Hogan
+  institution: Queensland University of Technology, Australia
+  
+- name: Eliu Huerta
+  institution: Argonne National Laboratory, USA
+
+- name: Rajkumar Kettimuthu
+  institution: Argonne National Laboratory, USA
+
+- name: Deborah Khider
+  institution: University of Southern California, USA
+
+# - name: Rao Kotamarthi
+#   institution: Argonne National Laboratory, USA
+
+- name: Alexey Lastovetsky
+  institution: University College Dublin, Ireland
+
+- name: Erwin Laure
+  institution: MPCDF, Germany
+
+- name: Ulf Leser
+  institution: Humboldt-Universitaet zu Berlin, Germany
+
+- name: Daniele Lezzi
+  institution: Barcelona Supercomputing Center, Spain
+
+- name: Chen Li
+  institution: Monash University, Australia
+
+# - name: Andre Luckow
+#   institution: Clemson University, USA
+
+# - name: Zarija Lukic
+#   institution: Lawrence Berkeley National Laboratory, USA
+
+- name: Gang Luo
+  institution: University of Washington, USA
+
+- name: Piotr Luszczek
+  institution: University of Tennessee Knoxville, USA
+
+- name: Amit Majumdar
+  institution: San Diego Supercomputer Center, USA
+
+- name: Maciej Malawski
+  institution: AGH University of Science and Technology, Poland
+
+# - name: Stefano Markidis
+#   institution: KTH Royal Institute of Technology, Sweden
+
+- name: Marta Mattoso
+  institution: Federal University of Rio de Janeiro, Brazil
+
+- name: Jose Moreira
+  institution: University of Aveiro, Portugal
+
+# - name: Fatima Nunes
+#   institution: University of S√£o Paulo, Brazil
+
+# - name: Silvia Olabarriaga
+#   institution: University of Amsterdam, The Netherlands
+
+- name: Gilberto Pastorello
+  institution: University of Amsterdam, The Netherlands
+
+# - name: Tom Peterka
+#   institution: Argonne National Laboratory, USA
+
+- name: Dirk Pleiter
+  institution: KTH Royal Institute of Technology, Sweden
+
+- name: Fabio Porto
+  institution: National Laboratory of Scientific Computation, Brazil
+
+- name: Loïc Pottier
+  institution: Lawrence Livermore National Laboratory, USA
+
+- name: Thomas Poulet
+  institution: CSIRO, Australia
+
+# - name: Lavanya Ramakrishnan
+#   institution: Lawrence Berkeley National Laboratory, USA
+
+- name: Marcelo S. Reis
+  institution: University of Campinas, Brazil
+
+- name: Paul Roe
+  institution: Queensland University of Technology, Australia
+
+# - name: Jibo Sanyal
+#   institution: Oak Ridge National Lab, USA
+
+- name: Robert Schuler
+  institution: University of Southern California, USA
+
+- name: Arjun Shankar
+  institution: Oak Ridge National Laboratory, USA
+
+- name: Raul Sirvent
+  institution: Barcelona Supercomputing Center, Spain
+
+- name: Renan Souza
+  institution: Oak Ridge National Laboratory, USA
+
+# - name: Nigel Stanger
+#   institution: University of Otago, New Zealand
+
+- name: Achim Streit
+  institution: Karlsruhe Institute of Technology, Germany
+
+- name: Frédéric Suter
+  institution: Oak Ridge National Laboratory, USA
+
+- name: Domenico Talia
+  institution: University of Calabria, Italy
+
+- name: Yoshio Tanaka
+  institution: AIST, Japan
+
+- name: Roselyne Tchoua
+  institution: DePaul University, USA
+  
+- name: Aniket Tekawade
+  institution: KLA Corporation
+
+# - name: Douglas Thain
+#   institution: University of Notre Dame,USA
+
+- name: Rajeev Thakur
+  institution: Argonne National Laboratory, USA
+
+- name: Rob Van Nieuwpoort
+  institution: Netherlands eScience Center, The Netherlands
+
+- name: David Walker
+  institution: Cardiff University, UK
+
+- name: Paul Watson
+  institution: Newcastle University, UK
+
+- name: Sean R. Wilkinson
+  institution: Oak Ridge National Laboratory, USA
+
+- name: Xingfu Wu
+  institution: Argonne National Laboratory, USA
+
+- name: Orcun Yildiz
+  institution: Argonne National Laboratory, USA
+
+- name: Yuankun Fu
+  institution: VMware, Inc., USA

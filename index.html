@@ -1,0 +1,98 @@
+---
+layout: default
+permalink: /
+---
+
+<!-- carousel images-->
+<section>
+    <div id="owl-mainpage" class="owl-carousel owl-theme">
+        {% for photo in site.data.photos %}
+        <div class="item"><img src="{{ site.baseurl }}/images/photos/{{ photo.filename }}" alt="Photo"></div>
+        {% endfor %}
+    </div>
+</section>
+
+<div class="container">
+    <div class="row" style="min-height: 55em;">
+        <div class="row">
+            <div class="col-sm-8">
+                <div class="row">
+                    <img src="{{ site.baseurl }}/images/{{ site.data.main.logo-lg }}" width="100%" alt="eScience"/>
+                </div>    
+                <div class="row">
+                    <!-- INTRODUCTION -->
+                    <div class="col-sm-11">
+                        
+                        <div class="">
+                            <h1>{{ site.data.main.dates }}</h1>
+                            <h2>{{ site.data.main.location }}</h2>
+                            <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/xlVgkya7Maw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            <p>{{ site.data.main.description }}</p>
+                        </div>
+
+                        
+                        <!-- <div>
+                            <h3>
+                                <a href="{{ site.baseurl }}/covid19">Message from the IEEE eScience 2022 Organization on COVID19 policy at the conference</a>
+                            </h3>
+                            <h3 style="color: firebrick">
+                                <a href="https://cvent.me/yX1vvr" target="_blank">Registration Is Now Open!</a>
+                            </h3>
+                            <p>
+                                Please, <a href="{{ site.baseurl }}/registration">click here</a> to review the categories and fees for registration.
+                            </p>
+                        </div> -->
+                    </div>
+
+                    <!-- IMPORTANT DATES -->
+                    <!-- <div class="col-sm-5">
+                        {% include dates.html %}
+                    </div> -->
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                {% include dates.html %}
+            </div>
+            <!-- TWITTER -->
+            <!-- <div class="col-sm-3">
+                {% include twitter.html %}
+            </div> -->
+        </div>
+
+        
+    </div>
+</div>
+
+<div class="sponsors">
+    <div class="container">
+        <h4 style="margin-bottom: 1em; color: #666">Sponsors</h4>
+        {% for s in site.data.sponsors %}
+        <div class="col-sm-3 sponsor">
+            {% if s.link %}
+            <a href="{{ s.link }}" target="_blank">
+                <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+            </a>
+            {% else %}
+            <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+    <br /><br />
+    <div class="container">
+        <h4 style="margin-bottom: 1em; color: #666">Supporters</h4>
+        <a href=" https://www.lufthansagroup.com/en/home.html" target="_blank">
+            <img src="{{ site.baseurl }}/images/sponsors/lufthansa-group.png" style="width: 250px" alt="Lufthansa Group" />
+        </a>
+        <!-- <a href="https://www.visoar.net/" target="_blank">
+            <img src="{{ site.baseurl }}/images/sponsors/visoar.png" style="width: 250px; padding-left: 5em;" alt="NSF" />
+        </a>
+        <a href="http://cloudycluster.com/" target="_blank">
+            <img src="{{ site.baseurl }}/images/sponsors/cloudycluster.png" style="width: 250px; padding-left: 5em;" alt="CloudyCluster" />
+        </a>
+        <a href="https://nsf.gov" target="_blank">
+            <img src="{{ site.baseurl }}/images/sponsors/nsf.png" style="width: 150px; padding-left: 5em;" alt="NSF" />
+        </a> -->
+    </div>
+</div>

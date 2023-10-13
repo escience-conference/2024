@@ -1,0 +1,34 @@
+# Site settings
+title: IEEE International Conference on eScience
+
+###################################################################
+# Configure the variable below to customize the eScience website #
+###################################################################
+
+baseurl: /2023 # replace '_template' below by the conference year
+
+###################################################################
+# Do NOT change the settings below
+###################################################################
+
+markdown: kramdown
+  
+enable-mathjax: yes
+
+collections:
+  photos:
+    output: true
+    permalink: /images/:path/
+  tutorials:
+    output: true
+    permalink: /tutorials/:path/
+
+plugins:
+  - jekyll-sitemap    # Adds sitemap to the website at /sitemap.xml
+  - jekyll-feed       # Adds feed to the website at /feed.xml
+  - jekyll-seo-tag    # Adds all the important SEO meta tags by default.
+
+exclude:
+  - .jekyll-cache
+  - README.md
+  - LICENSE

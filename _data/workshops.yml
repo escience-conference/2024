@@ -1,0 +1,67 @@
+- name: '3rd Workshop on Reproducible Workflows, Data Management, and Security (ReWorDS 2023)'
+  abstract: >
+            Emerging and future computational workloads are combining traditional HPC applications with tools and techniques from the scale-out data analytics and machine learning community. Getting these technologies to co-exist and interoperate to advance scientific discovery is a daunting task with few known good solutions. In general, constructing these workflows has the potential to create pitfalls and incompatibilities that limit adoption.
+
+            This workshop seeks to explore ideas and experiences on what kinds of infrastructure developments can improve upon the state of the art. Explorations of component packaging via containers and virtual machines, automation scripting, deployment,  portability builds, and system support for these and other relevant activities are key infrastructure.
+  url: https://sites.google.com/vols.utk.edu/rewords23/home
+
+# - name: 'Software Engineering for eScience 2023 (SE4eScience23)'
+#   abstract: >
+#             The goal of this workshop is to provide a unique venue for the presentation of results and 
+#             to facilitate interaction between software engineers and computational scientists, including 
+#             those from the humanities, social sciences and engineering. The workshop seeks contributions 
+#             from members of those communities that describe perspectives, research outcomes, and lessons 
+#             learned (positive or negative) from the development of eScience software.
+#   url: https://se4science.org/workshops/se4escience23/index.htm
+
+- name: 'Research Software Engineers in eScience: Sustainable RSE Ecosystems within eScience (RSE-eScience-2023)'
+  abstract: >
+            Research Software Engineers (RSEs) combine professional software engineering expertise 
+            with an intimate understanding of research. They are uniquely placed in the eScience 
+            ecosystem to ensure development of sustainable research environments and reproducible 
+            research outputs. However, the position of RSEs within eScience is still not fully 
+            established, with many RSEs not gaining proper recognition for their contributions and 
+            struggling to find a way to progress their careers. The theme of this workshop is 
+            sustainable RSE ecosystems, encompassing both the role of RSEs in sustainable eScience 
+            and making the RSE ecosystem itself more sustainable. We intend for this workshop to 
+            raise awareness of the concept of research software engineers and research software 
+            engineering (RSEng), as well as to provide an opportunity for RSEs and those interested 
+            in RSEng to talk about issues and solutions. Anyone involved or interested in RSEng is 
+            welcome to attend.
+  url: https://us-rse.org/rse-escience-2023/
+
+- name: '3rd Workshop on E-science ReseaRch leading tO negative Results (ERROR 2023)'
+  abstract: > 
+            ERROR 2023 provides the e-Science community a dedicated and active forum for exchanging 
+            cross-discipline experiences on research leading to negative results and lessons learned. 
+            The workshop covers both applications and systems areas, including topics in research 
+            methodology, reproducibility, the applications/systems interface, social problems in 
+            computational science, and other relevant areas.
+  url: https://error-workshop.org/
+ 
+- name: '4th Global Research Platform (4GRP) Workshop '
+  abstract: > 
+            Note: The 4th Global Research Platform (4GRP) Workshop is a separate event that is co-located with eScience. 
+            4GRP is an open event and eScience registrants not attending eScience workshops or tutorials are welcome to register for 4GRP instead.          
+  url: https://www.theglobalresearchplatform.net/
+
+- name: 'IEEE International Workshop on Artificial Intelligence for Health (AI4Health 2023)'
+  abstract: >
+            The workshop on Artificial Intelligence for Health (AI4Health 2023) aims at bringing together researchers from academia, industry, government, and medical centers to present state-of-the-art and discuss the latest advances in the emerging area of the use of artificial intelligence and soft computing techniques, be they black boxes or explanation-based, to signals, images, and data in the fields of medicine, healthcare, and wellbeing. AI4Health is expected to cover the whole range of theoretical and practical aspects, technologies, and systems related to the application of artificial intelligence and soft computing methodologies to issues such as machine learning, deep learning, knowledge discovery, decision support, classification, regression, forecasting, optimization, and feature selection in the healthcare and wellbeing domain.
+  url: https://www.ai4health.icar.cnr.it/
+
+- name: '1st Workshop on cItizeN Science engagemenT based on Ict soLutions (INSTIL 2023)'
+  abstract: >
+            This workshop invites researchers who have or are interested to invested significant 
+            efforts in the design and development of ICT-based tools, software, serious games, 
+            eScience applications, and solutions to engage the general public in science. The 
+            general goal of the workshop is to act as a community venue to convey multidisciplinary
+            experienes in exploring ICT solutions to raise awareness, engage and empower citizens
+            and stakeholders in science with concrete eScience tools.
+
+  url: http://www.instil-science.eu/
+
+- name: "Advancing research software policy: A participatory workshop (AdvancingRSP-2023)"
+  abstract: >
+            This workshop is part of a project supported by the Sloan Foundation, aimed at cultivating better research software policies. Learn about key developments in research software policy, share your experiences with others, and get involved in efforts to promote progress in this field. This workshop will provide concrete steps that participants can take to improve policies in areas such as establishing career paths, incentivizing contributions to public goods, and increasing diversity in the development community. 
+  url: https://forms.gle/adL8Pw86Aypr6Xxr6

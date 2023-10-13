@@ -1,0 +1,33 @@
+---
+layout: twitter
+permalink: /keynotes
+title: Keynotes
+---
+
+{% assign ks = site.data.keynotes %}
+<div class="row">
+    {% for k in ks %}
+    <a name="{{ k.id }}"></a>
+    <div class="col-sm-12 col-md-12 keynote">
+        <div>
+            <h3>{{ k.title }}</h3>
+            <p style="color: #d67a92">{{ k.time }}<br />
+                <span style="font-size: 0.8em; color: #666; font-style: italic">Session Chair: {{ k.chair }}</span>
+            </p>
+        </div>
+        <div class="image">
+            <img src="{{ site.baseurl }}/images/keynotes/{{ k.photo }}" alt="{{ k.name }}" />
+            <strong>{{ k.name }}</strong><br />
+            {{ k.institution }}
+        </div>
+        {{ k.abstract }}
+        <div class="biography">
+            <strong>Bio.</strong> {{ k.biography }}
+        </div>
+        <br/>
+        {% if k.slides %}
+        <a class="small" href="{{k.slides}}">Presentation slides</a>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>

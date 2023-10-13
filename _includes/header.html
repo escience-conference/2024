@@ -1,0 +1,149 @@
+<header class=navbar-affixed-top data-spy=affix data-offset-top=62>
+    <div class="navbar navbar-default yamm" role=navigation id=navbar>
+        <div class=container>
+            <div class=navbar-header>
+                <a class="navbar-brand home" href="{{ site.baseurl }}/" />
+                {% if site.data.main.logo %}
+                <img src="{{ site.baseurl }}/images/{{ site.data.main.logo }}" alt="{{ site.edition }} {{ site.title }}">
+                {% else %}
+                <span style="font-size: 1.1em">{{ site.data.main.edition }} IEEE eScience Conference</span><br />
+                <span style="font-variant: small-caps; font-size: 0.9em; color: #ccc">{{ site.data.main.theme }}</span>
+                {% endif %}
+                <span class=sr-only>Universal - go to homepage</span>
+                </a>
+                <div class=navbar-buttons>
+                    <button type=button class="navbar-toggle btn-template-main" data-toggle=collapse
+                        data-target=#navigation>
+                        <span class=sr-only>Toggle Navigation</span>
+                        <i class="fas fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="navbar-collapse collapse" id=navigation>
+                <ul class="nav navbar-nav navbar-right">
+                    
+                    <li class="dropdown">
+                        <!-- <a href="https://www.easyconferences.org/escience2023/register" class=dropdown-toggle target="_blank" style="background-color: #fff; border-radius: .5em; color: #f06236">Register ></a> -->
+                        <a href="{{ site.baseurl }}/registration" class=dropdown-toggle style="background-color: #fff; border-radius: .5em; color: #f06236">Register ></a>
+                    </li>
+
+                    <li class="dropdown use-yamm yamm-fw">
+                        <a href=# class=dropdown-toggle data-toggle=dropdown role=button aria-haspopup=true
+                            aria-expanded=false>Calls <span class=caret></span></a>
+                        <ul class=dropdown-menu>
+                            <li>
+                                <div class=yamm-content>
+                                    <ul>
+                                        <!-- <li><a href="{{ site.baseurl }}/important-dates">Important Dates</a></li> -->
+                                        {% if site.data.main.contents.calls.papers %}
+                                        <li><a href="{{ site.baseurl }}/call-for-papers">Call for Papers and Posters</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.calls.workshops %}
+                                        <li><a href="{{ site.baseurl }}/call-for-workshops">Call for Workshops</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.calls.tutorials %}
+                                        <li><a href="{{ site.baseurl }}/call-for-tutorials">Call for Tutorials</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.calls.posters %}
+                                        <li><a href="{{ site.baseurl }}/call-for-posters">Call for Posters</a></li>
+                                        {% endif %}
+                                        <li><a href="{{ site.baseurl }}/files/Sponsorship_Package_eScience_2023.pdf" target="_blank">Call for Sponsors</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown use-yamm yamm-fw">
+                        <a href=# class=dropdown-toggle data-toggle=dropdown role=button aria-haspopup=true
+                            aria-expanded=false>Program <span class=caret></span></a>
+                        <ul class=dropdown-menu>
+                            <li>
+                                <div class=yamm-content>
+                                    <ul>
+                                        {% if site.data.main.contents.program.timetable %}
+                                        <li><a href="{{ site.baseurl }}/timetable">Timetable</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.program.keynotes %}
+                                        <li><a href="{{ site.baseurl }}/keynotes">Keynotes</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.program.workshops %}
+                                        <li><a href="{{ site.baseurl }}/workshops">Workshops</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.program.tutorials %}
+                                        <li><a href="{{ site.baseurl }}/tutorials">Tutorials</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.program.panel %}
+                                        <li><a href="{{ site.baseurl }}/panel">Panel</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.program.studentprogram %}
+                                        <li><a href="{{ site.baseurl }}/studentprogram">Student Program</a></li>
+                                        {% endif %}
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown use-yamm yamm-fw">
+                        <a href=# class=dropdown-toggle data-toggle=dropdown role=button aria-haspopup=true
+                            aria-expanded=false>Travel <span class=caret></span></a>
+                        <ul class=dropdown-menu>
+                            <li>
+                                <div class=yamm-content>
+                                    <ul>
+                                        {% if site.data.main.contents.meeting.registration %}
+                                        <li><a href="{{ site.baseurl }}/registration">Registration</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.meeting.venue %}
+                                        <li><a href="{{ site.baseurl }}/venue">Venue</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.meeting.lodging %}
+                                        <li><a href="{{ site.baseurl }}/accommodation">Accommodation</a></li>
+                                        {% endif %}
+                                        <li><a href="{{ site.baseurl }}/limassol">About Limassol</a></li>
+                                        <li><a href="{{ site.baseurl }}/cyprus">About Cyprus</a></li>
+                                        <li><a href="{{ site.baseurl }}/travel-information">Travel Information</a></li>
+                                        <li><a href="{{ site.baseurl }}/visa">Visa Information</a></li>
+                                        {% if site.data.main.contents.meeting.thingstodo %}
+                                        <li><a href="{{ site.baseurl }}/thingstodo">Things to do</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.meeting.virtual %}
+                                        <li><a href="{{ site.baseurl }}/virtual">Virtual Conference</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.meeting.quickstart %}
+                                        <li><a href="{{ site.baseurl }}/quickstart">Quickstart</a></li>
+                                        {% endif %}
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown use-yamm yamm-fw">
+                        <a href=# class=dropdown-toggle data-toggle=dropdown role=button aria-haspopup=true
+                            aria-expanded=false>Committees <span class=caret></span></a>
+                        <ul class=dropdown-menu>
+                            <li>
+                                <div class=yamm-content>
+                                    <ul>
+                                        {% if site.data.main.contents.committees.organizers %}
+                                        <li><a href="{{ site.baseurl }}/organizers">Organizers</a></li>
+                                        {% endif %}
+                                        {% if site.data.main.contents.committees.pc %}
+                                        <li><a href="{{ site.baseurl }}/pc">Program Committee</a></li>
+                                        {% endif %}
+                                        <li><a href="/about/#steering-committee">Steering Committee</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- <li class="dropdown">
+                        <a href="{{ site.baseurl }}/students" class=dropdown-toggle target="_blank">Students</a>
+                    </li> -->
+                    <li class="dropdown">
+                        <a href="/about" class=dropdown-toggle target="_blank">About</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>

@@ -1,0 +1,39 @@
+<div class="timeline">
+    <h3>Important Dates</h3>
+    <div class="box">
+        <div class="container">
+            <div class="lines">
+                {% for d in site.data.important_dates %}
+                <div class="dot"></div>
+                <div class="line"></div>
+                {% endfor %}
+            </div>
+            <div class="cards">
+                {% assign dates = site.data.important_dates | order: "date" %}
+                {% for d in dates %}
+                <div class="card" style="width: 22em">
+                    {% if d.extended %}
+                    <h4>
+                        <span class="extended">{{ d.date }}</span> 
+                        {% if d.over %}
+                        <span class="overdate">{{ d.extended }}</span>
+                        {% else %}
+                        {{ d.extended }}
+                        {% endif %}
+                    </h4>
+                    {% else %}
+                    <h4>
+                        {% if d.over %}
+                        <span class="overdate">{{ d.date }}</span>
+                        {% else %}
+                        {{ d.date }}
+                        {% endif %}
+                    </h4>
+                    {% endif %}
+                    <p>{{ d.type }}</p>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

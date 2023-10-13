@@ -1,0 +1,16 @@
+---
+layout: twitter
+permalink: /pc
+title: Program Committee
+---
+
+{% assign pcm = site.data.program_committee %}
+<div class="row">
+    {% for pc in pcm %}
+    <div class="col-sm-12 col-md-6" style="margin-bottom: 1em">
+        <strong>{{ pc.name }}</strong><br />
+        {{ pc.institution }}
+    </div>
+    {% endfor %}
+</div>
+<br /><br />

@@ -1,0 +1,23 @@
+---
+layout: twitter
+permalink: /organizers
+title: Organizers
+---
+
+{% assign roles = site.data.organizers.roles %}
+{% for role in roles %}
+<h2>{{ role }}</h2>
+<div class="organizers">
+    {% for o in site.data.organizers.organizers %}
+    {% if o.role == role %}
+    <div class="organizer">
+        <img src="{{ site.baseurl }}/images/organizers/{% if o.photo %}{{ o.photo }}{% else %}noimage.png{% endif %}"
+            alt="{{ o.name }}" /><br />
+        <strong>{{ o.name }}</strong><br />
+        {{ o.institution }}
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+<br />
+{% endfor %}
