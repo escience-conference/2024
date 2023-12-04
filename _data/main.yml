@@ -2,7 +2,7 @@ edition: 20th # conference edition
 
 theme: Democratizing Science
 
-logo: escience-light-logo.png       # conference logo (for menu in header bar / replaces theme)
+logo: escience-logo-all-white.png       # conference logo (for menu in header bar / replaces theme)
 logo-lg: escience-dark-logo.png # conference logo (for homepage only)
 
 dates: September 16-20, 2024 # conference dates
