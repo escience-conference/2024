@@ -17,4 +17,22 @@ organizers:
     institution: University of Cyprus, Cyprus
     photo: date.png
 
- 
+  - name: Tanu Malik
+    role: General Chair
+    institution: DePaul University, USA
+    photo: malik.jpg
+
+  - name: Jay Lofstead
+    role: Workshop Chairs
+    institution: Sandia National Lab
+    photo: lofstead.jpg
+
+  - name: Nathaniel Hudson
+    role: Web Chair
+    institution: University of Chicago, USA
+    photo: hudson.jpg
+
+  - name: Tyle Skluzacek
+    role: Publicity Chair
+    institution: Oak Ridge National Lab
+    photo: skluzacek.jpeg
