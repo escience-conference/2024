@@ -13,9 +13,14 @@ roles:
 
 organizers:
   - name: Sasumu Date
-    role: Program Chairs
+    role: General Chair
     institution: University of Cyprus, Cyprus
     photo: date.png
+
+  - name: David Abramson
+    role: Program Chairs
+    institution: University of Queensland, Australia
+    photo: abramson.png
 
   - name: Tanu Malik
     role: Program Chairs
