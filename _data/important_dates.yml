@@ -1,14 +1,26 @@
 - type: Workshop Submissions
-  date: February, 2024
+  date: 2024
 
 - type: Workshop Acceptance Notification
-  date: February, 2024
+  date: 2024
 
 - type: Tutorial Submissions
   date: 2024
 
 - type: Paper Submissions
-  date: 2024
+  date: Monday, May 6, 2024
+
+- type: Notification of Paper Acceptance
+  date: Monday, July 1, 2024
+
+- type: Poster Submissions
+  date: Friday, July 22, 2024
+
+- type: Notification of Poster Acceptance
+  date: Monday, July 29, 2024
+
+- type: Camera-ready Submissions
+  date: Monday, August 12, 2024
 
 - type: Conference
   date: September 16-20, 2024
