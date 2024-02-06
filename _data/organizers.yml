@@ -51,3 +51,23 @@ organizers:
     role: Proceedings Chair
     institution: University of Edinburgh, UK
     photo: filinger.jpeg
+
+  - name: Jason Haga
+    role: Tutorial Chairs
+    institution: National Institute of Advanced Industrial Science and Technology, Japan
+    photo: haga.jpg
+
+  - name: Ryousei Takano
+    role: Workshop Chairs
+    institution: National Institute of Advanced Industrial Science and Technology, Japan
+    photo: takano.jpeg
+
+  - name: Hirotake Abe
+    role: Publicity Chair
+    institution: University of Tsukuba, Japan
+    photo: abe.jpg
+
+  - name: Arata Endo
+    role: Poster Chairs
+    institution: NARA Institute of Science and Technology, Japan
+    photo: endo.jpg
