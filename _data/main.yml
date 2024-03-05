@@ -26,7 +26,7 @@ description: >
 # visibility of contents in the website
 contents:
   calls:
-    papers: false
+    papers: true
     workshops: false
     tutorials: false
     posters: false
