@@ -21,6 +21,7 @@ Submitted papers should use the IEEE 8.5×11 manuscript guidelines: double-colum
 Note. The use of artificial intelligence (AI)–generated text in an article shall be disclosed in the acknowledgements section of any paper submitted to an IEEE Conference or Periodical. The sections of the paper that use AI-generated text shall have a citation to the AI system used to generate the text. For more information [please click here](https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-policies/submission-policies/).
 
 **Awards**
+
 eScience 2024 will host the following awards, which will be announced at the conference.
 - Best Paper Award
 - Best Student Paper Award
@@ -28,6 +29,7 @@ eScience 2024 will host the following awards, which will be announced at the con
 - Best Student Poster Award
 
 **Dates**
+
 - Paper Submissions Due: Monday, May 6th, 2024
 - Notification of Paper Acceptance: Monday, July 1st, 2024 
 - Poster Submissions due: Friday, July 22nd, 2024
