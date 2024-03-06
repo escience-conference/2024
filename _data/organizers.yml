@@ -1,18 +1,21 @@
 roles:
   - General Chair
   - Program Chairs
-  - Track Chairs
+  # - Track Chairs
   - Workshop Chairs
   - Tutorial Chairs
   - Poster Chairs
   - Proceedings Chair
-  - Media Chairs
+  # - Media Chairs
   - Web Chair
-  - Publicity Chair
+  - Publicity & Social Media Chairs
   # - Student Volunteer Chair
+  # - Sponsorship Chair
+  - Travel/Visa Chair
+  - Venue & Finance Chairs
 
 organizers:
-  - name: Sasumu Date
+  - name: Susumu Date
     role: General Chair
     institution: Osaka University, Japan
     photo: date.png
@@ -27,47 +30,76 @@ organizers:
     institution: DePaul University, USA
     photo: malik.jpg
 
-  - name: Philipp Gschwandtner
-    role: Tutorial Chairs
-    institution: University of Innsbruck, Austria
-    photo: gschwantner.jpg
-
+  # WORKSHOP CHAIRS
   - name: Jay Lofstead
     role: Workshop Chairs
     institution: Sandia National Lab
     photo: lofstead.jpg
-
-  - name: Nathaniel Hudson
-    role: Web Chair
-    institution: University of Chicago, USA
-    photo: hudson.jpg
-
-  - name: Tyle Skluzacek
-    role: Publicity Chair
-    institution: Oak Ridge National Lab
-    photo: skluzacek.jpeg
-
-  - name: Weronika Filinger
-    role: Proceedings Chair
-    institution: University of Edinburgh, UK
-    photo: filinger.jpeg
-
-  - name: Jason Haga
-    role: Tutorial Chairs
-    institution: National Institute of Advanced Industrial Science and Technology, Japan
-    photo: haga.jpg
 
   - name: Ryousei Takano
     role: Workshop Chairs
     institution: National Institute of Advanced Industrial Science and Technology, Japan
     photo: takano.jpeg
 
-  - name: Hirotake Abe
-    role: Publicity Chair
-    institution: University of Tsukuba, Japan
-    photo: abe.jpg
+  # TUTORIAL CHAIRS
+  - name: Philipp Gschwandtner
+    role: Tutorial Chairs
+    institution: University of Innsbruck, Austria
+    photo: gschwantner.jpg
 
+  - name: Jason Haga
+    role: Tutorial Chairs
+    institution: National Institute of Advanced Industrial Science and Technology, Japan
+    photo: haga.jpg
+
+  # POSTER CHAIRS
   - name: Arata Endo
     role: Poster Chairs
     institution: NARA Institute of Science and Technology, Japan
     photo: endo.jpg
+
+  # WEB CHAIR
+  - name: Nathaniel Hudson
+    role: Web Chair
+    institution: University of Chicago, USA
+    photo: hudson.jpg
+
+  # PUBLICITY & SOCIAL MEDIA CHAIRS
+  - name: Hirotake Abe
+    role: Publicity & Social Media Chairs
+    institution: University of Tsukuba, Japan
+    photo: abe.jpg
+
+  - name: Tyle Skluzacek
+    role: Publicity & Social Media Chairs
+    institution: Oak Ridge National Lab
+    photo: skluzacek.jpeg
+
+  # PROCEEDINGS CHAIR
+  - name: Weronika Filinger
+    role: Proceedings Chair
+    institution: University of Edinburgh, UK
+    photo: filinger.jpeg
+
+  # SPONSORSHIP CHAIR
+  #- name: Chonho Lee
+  #  role: Sponsorship Chair
+  #  institution: Okayama University of Science
+  #  photo: lee.gif
+
+  # TRAVEL/VISAS CHAIRS
+  - name: Hideyuki Tanushi
+    role: Travel/Visa Chair
+    institution: Osaka University, Japan
+    photo: tanushi.jpeg
+
+  # VENUE & FINANCE
+  - name: Akihiro Yamashita
+    role: Venue & Finance Chairs
+    institution: Osaka University, Japan
+    photo: missing.png
+
+  - name: Takashi Soga
+    role: Venue & Finance Chairs
+    institution: Osaka University, Japan
+    photo: missing.png
