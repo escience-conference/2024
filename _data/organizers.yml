@@ -10,7 +10,7 @@ roles:
   - Web Chair
   - Publicity & Social Media Chairs
   # - Student Volunteer Chair
-  # - Sponsorship Chair
+  - Exhibition & Supporter Chair
   - Travel/Visa Chair
   - Venue & Finance Chairs
 
@@ -86,11 +86,11 @@ organizers:
     institution: University of Southern California, USA
     photo: callaghan.jpeg
 
-  # SPONSORSHIP CHAIR
-  #- name: Chonho Lee
-  #  role: Sponsorship Chair
-  #  institution: Okayama University of Science
-  #  photo: lee.gif
+  # SUPPORTER CHAIR
+  - name: Lee Chonho
+    role: Exhibition & Supporter Chair
+    institution: Okayama University of Science
+    photo: lee.gif
 
   # TRAVEL/VISAS CHAIRS
   - name: Hideyuki Tanushi
