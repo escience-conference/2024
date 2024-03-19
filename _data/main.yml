@@ -28,7 +28,7 @@ contents:
   calls:
     papers: true
     workshops: true
-    tutorials: false
+    tutorials: true
     posters: false
   program:
     timetable: false
