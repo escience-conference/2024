@@ -8,11 +8,11 @@ eScience warmly invites proposals for workshops. Workshops offer a platform for 
 We welcome proposals for workshops on new, innovative topics as well as submissions to continue successful workshops from previous years. Note that proceedings of eScience workshops will be published by the IEEE in dedicated proceedings. The selected workshops will be held on the first two days of the conference (16-17 September).
  
 ### Important Dates AoE
- 	April 8. Workshops proposals' deadline
- 	April 16. Notification of acceptance 
-	TBA Paper Submission deadline
- 	TBA Notification of acceptance (Papers)
- 	TBA Camera-ready due (based on conference camera ready deadline)
+- April 8. Workshops proposals' deadline
+- April 16. Notification of acceptance 
+- TBA Paper Submission deadline
+- TBA Notification of acceptance (Papers)
+- TBA Camera-ready due (based on conference camera ready deadline)
 
 ### Workshops Submission Process
  
