@@ -22,7 +22,7 @@ The cover sheet should include the following elements:
 - Brief schedule - please plan for a half-day tutorial (approx 3 hours plus breaks)
 - Intended audience (introductory, intermediate, advanced)
 - Prerequisite knowledge or skills required for attendees
-- Previous offerings of the tutorial, if any
+- Previous offerings of the tutorial (if any) and expected number of participants
 - Detailed contact information of all presenters (and indication of the main contact person)
 - Brief biography (max. 2 paragraphs) for each presenter, highlighting relevant teaching experience
 
