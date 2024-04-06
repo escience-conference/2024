@@ -1,4 +1,4 @@
-| Submission Link         | https://easychair.org/conferences/?conf=escience2024 |
+| Submission Link         | [https://easychair.org/conferences/?conf=escience2024](https://easychair.org/conferences/?conf=escience2024) |
 | Conference Dates        | {{ site.data.main.dates }} |
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
