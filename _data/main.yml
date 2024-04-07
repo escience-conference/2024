@@ -2,7 +2,7 @@ edition: 20th # conference edition
 
 theme: Democratizing Science
 
-logo: escience-logo-all-white.png       # conference logo (for menu in header bar / replaces theme)
+logo: escience-logo-all-white.png # conference logo (for menu in header bar / replaces theme)
 logo-lg: escience-dark-logo.png # conference logo (for homepage only)
 
 dates: September 16-20, 2024 # conference dates
@@ -18,15 +18,15 @@ description: >
   eScience in its broadest meaning that enables and improves innovation in data- and
   compute-intensive research across all domain sciences ranging from traditional areas
   in physics and earth sciences to more recent fields such as social sciences, arts and
-  humanities, and artificial intelligence for a wide variety of target architectures 
+  humanities, and artificial intelligence for a wide variety of target architectures
   including HPC, cloud and IoT infrastructures.
-  <br /><br /> 
-  The 20th IEEE International Conference on e-Science is co-located with the 
+  <br /><br />
+  The 20th IEEE International Conference on e-Science is co-located with the
   <a href="https://www.theglobalresearchplatform.net" target="_blank">
   5th Global Research Platform Workshop (5GRP)</a>.
   Both audiences share common interests, content, and culture. Co-location provides attendees
   with the option to register for both events.
-  <br /> <br /> 
+  <br /> <br />
 
 # visibility of contents in the website
 contents:
@@ -51,4 +51,4 @@ contents:
     quickstart: false
   committees:
     organizers: true
-    pc: false
+    pc: true
