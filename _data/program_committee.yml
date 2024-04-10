@@ -1,3 +1,6 @@
+- name: Kento  Aida
+  institution: National Institute of Informatics
+
 - name: Adam Belloum
   institution: University of Amsterdam
 
@@ -49,6 +52,15 @@
 - name: Lennart Johnsson
   institution: University of Houston
 
+- name: Rajkumar Kettimuthu
+  institution: Argonne National Laboratory
+
+- name: Kyoung-Sook Kim
+  institution: National Institute of Advanced Industrial Science and Technology (AIST)
+
+- name: Alberto Krone-Martins
+  institution: University of California, Irvine - Donald Bren School of Information and Computer Sciences, Department of Informatics
+
 - name: Valeria Krzhizhanovskaya
   institution: University of Amsterdam
 
@@ -82,6 +94,9 @@
 - name: Bogdan Nicolae
   institution: Argonne National Laboratory
 
+- name: Arnab Kumar Paul
+  institution: BITS Pilani, K K Birla Goa Campus, Goa, India
+
 - name: Line C. Pouchard
   institution: Brookhaven National Lab
 
@@ -103,6 +118,9 @@
 - name: Victoria Stodden
   institution: University of Southern California (USC)
 
+- name: Toyotaro Suzumura
+  institution: The University of Tokyo
+
 - name: Roselyne Tchoua
   institution: University of Chicago
 
@@ -111,6 +129,9 @@
 
 - name: Jianwu Wang
   institution: University of Maryland, Baltimore County
+
+- name: Eric Yen
+  institution: Academia Sinica Grid Computing Center
 
 - name: Jaroslaw Zola
   institution: University at Buffalo
