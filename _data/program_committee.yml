@@ -1,5 +1,8 @@
-- name: Kento  Aida
+- name: Kento Aida
   institution: National Institute of Informatics
+
+- name: André Bauer
+  institution: University of Chicago
 
 - name: Adam Belloum
   institution: University of Amsterdam
@@ -25,6 +28,9 @@
 - name: Vasa Curcin
   institution: King's College London
 
+- name: Ryusuke Egawa
+  institution: Tokyo Denki University
+
 - name: Thomas Fahringer
   institution: University of Innsbruck, Austria
 
@@ -47,7 +53,7 @@
   institution: King's College London
 
 - name: Nikhil Hegde
-  institution: Indian Institute of Technology
+  institution: Indian Institute of
 
 - name: Lennart Johnsson
   institution: University of Houston
@@ -70,6 +76,9 @@
 - name: Erwin Laure
   institution: MPCDF
 
+- name: Chunghan Lee
+  institution: Toyota Motor North America R&D (ITL)
+
 - name: Daniele Lezzi
   institution: Barcelona Supercomputing Center (BSC-CNS)
 
@@ -78,6 +87,9 @@
 
 - name: Ketan Maheshwari
   institution: Oak Ridge National Laboratory
+
+- name: Amit Majumdar
+  institution: University of California San Diego, San Diego Supercomputer Center
 
 - name: Preeti Malakar
   institution: Indian Institute of Technology Kanpur
@@ -91,14 +103,23 @@
 - name: Raffaele Montella
   institution: University of Naples "Parthenope"
 
+- name: Takaki Nakamura
+  institution: 東北大学
+
 - name: Bogdan Nicolae
   institution: Argonne National Laboratory
+
+- name: Kazunori Nozaki
+  institution: Osaka University Dental Hospital
 
 - name: Arnab Kumar Paul
   institution: BITS Pilani, K K Birla Goa Campus, Goa, India
 
 - name: Line C. Pouchard
   institution: Brookhaven National Lab
+
+- name: Prapaporn Rattanatamrong
+  institution: Thammasat University
 
 - name: Paul Roe
   institution: Queensland University of Technology
@@ -112,6 +133,9 @@
 - name: Sameer Shende
   institution: University of Oregon
 
+- name: Rafael Ferreira da Silva
+  institution: Oak Ridge National Laboratory
+
 - name: Yogesh Simmhan
   institution: Indian Institute of Science
 
@@ -121,8 +145,14 @@
 - name: Toyotaro Suzumura
   institution: The University of Tokyo
 
+- name: Atsuko Takefusa
+  institution: National Institute of Informatics
+
 - name: Roselyne Tchoua
   institution: University of Chicago
+
+- name: Kundjanasith Thonglek
+  institution: Osaka University
 
 - name: Antonino Tumeo
   institution: Pacific Northwest National Laboratory
