@@ -1,6 +1,12 @@
 - name: Kento Aida
   institution: National Institute of Informatics
 
+- name: Mohsen Amini
+  institution: HPCC Lab, Computer Science and Engineering Department
+
+- name: Malcolm Atkinson
+  institution: The University of Edinburgh
+
 - name: André Bauer
   institution: University of Chicago
 
@@ -10,11 +16,17 @@
 - name: Martin Berzins
   institution: SCI Institute, University of Utah
 
+- name: Wes Bethel
+  institution: Lawrence Berkeley National Lab
+
 - name: Jean Luca Bez
   institution: Lawrence Berkeley National Laboratory
 
 - name: Kris Bubendorfer
   institution: Victoria University of Wellington
+
+- name: Jon Calhoun
+  institution: Clemson University
 
 - name: Prasad Calyam
   institution: University of Missouri
@@ -24,6 +36,9 @@
 
 - name: Sandip Chakraborty
   institution: Indian Institute of Technology Kharagpur
+
+- name: Simon Cox
+  institution: University of Southampton
 
 - name: Vasa Curcin
   institution: King's College London
@@ -55,6 +70,9 @@
 - name: Nikhil Hegde
   institution: Indian Institute of
 
+- name: Bahman Javadi
+  institution: Western Sydney University
+
 - name: Lennart Johnsson
   institution: University of Houston
 
@@ -73,17 +91,26 @@
 - name: Sanmukh R. Kuppannagari
   institution: Case Western Reserve University
 
+- name: Alexey Lastovetsky
+  institution: University College Dublin
+
 - name: Erwin Laure
   institution: MPCDF
 
 - name: Chunghan Lee
   institution: Toyota Motor North America R&D (ITL)
 
+- name: Ulf Leser
+  institution: Institut für Informatik, Humboldt-Universität zu Berlin
+
 - name: Daniele Lezzi
   institution: Barcelona Supercomputing Center (BSC-CNS)
 
 - name: Gang Luo
   institution: University of Washington
+
+- name: Piotr Luszczek
+  institution: University of Tennessee Knoxville
 
 - name: Ketan Maheshwari
   institution: Oak Ridge National Laboratory
@@ -93,6 +120,9 @@
 
 - name: Preeti Malakar
   institution: Indian Institute of Technology Kanpur
+
+- name: Maciej Malawski
+  institution: AGH University of Science and Technology
 
 - name: Anirban Mandal
   institution: Renaissance Computing Institute
@@ -114,6 +144,9 @@
 
 - name: Arnab Kumar Paul
   institution: BITS Pilani, K K Birla Goa Campus, Goa, India
+
+- name: Swaroop Pophale
+  institution: Oak Ridge National Laboratory
 
 - name: Line C. Pouchard
   institution: Brookhaven National Lab
@@ -142,6 +175,9 @@
 - name: Victoria Stodden
   institution: University of Southern California (USC)
 
+- name: Achim Streit
+  institution: Karlsruhe Institute of Technology
+
 - name: Toyotaro Suzumura
   institution: The University of Tokyo
 
@@ -151,6 +187,9 @@
 - name: Roselyne Tchoua
   institution: University of Chicago
 
+- name: Rajeev Thakur
+  institution: Argonne National Laboratory
+
 - name: Kundjanasith Thonglek
   institution: Osaka University
 
@@ -159,6 +198,9 @@
 
 - name: Jianwu Wang
   institution: University of Maryland, Baltimore County
+
+- name: Sean Wilkinson
+  institution: Oak Ridge National Laboratory
 
 - name: Eric Yen
   institution: Academia Sinica Grid Computing Center
