@@ -1,11 +1,20 @@
 - name: Kento Aida
   institution: National Institute of Informatics
 
+- name: Tyler Allen
+  institution: University of North Carolina at Charlotte
+
+- name: Ilkay Altintas
+  institution: University of California San Diego
+
 - name: Mohsen Amini
   institution: HPCC Lab, Computer Science and Engineering Department
 
 - name: Malcolm Atkinson
   institution: The University of Edinburgh
+
+- name: Rosa M. Badia
+  institution: Barcelona Supercomputing Center
 
 - name: André Bauer
   institution: University of Chicago
@@ -64,6 +73,9 @@
 - name: Dan Gunter
   institution: Lawrence Berkeley National Laboratory
 
+- name: Valerie Hayot-Sasson
+  institution: University of Chicago
+
 - name: Mark Hedges
   institution: King's College London
 
@@ -76,6 +88,9 @@
 - name: Lennart Johnsson
   institution: University of Houston
 
+- name: Daniel Katz
+  institution: University of Illinois Urbana-Champaign
+
 - name: Rajkumar Kettimuthu
   institution: Argonne National Laboratory
 
@@ -83,7 +98,7 @@
   institution: National Institute of Advanced Industrial Science and Technology (AIST)
 
 - name: Alberto Krone-Martins
-  institution: University of California, Irvine
+  institution: University of California, Irvine - Donald Bren School of Information and Computer Sciences, Department of Informatics
 
 - name: Valeria Krzhizhanovskaya
   institution: University of Amsterdam
@@ -172,6 +187,9 @@
 - name: Yogesh Simmhan
   institution: Indian Institute of Science
 
+- name: Raül Sirvent
+  institution: Barcelona Supercomputing Center
+
 - name: Victoria Stodden
   institution: University of Southern California (USC)
 
@@ -186,6 +204,9 @@
 
 - name: Roselyne Tchoua
   institution: University of Chicago
+
+- name: Douglas Thain
+  institution: University of Notre Dame
 
 - name: Rajeev Thakur
   institution: Argonne National Laboratory
@@ -207,3 +228,4 @@
 
 - name: Jaroslaw Zola
   institution: University at Buffalo
+
