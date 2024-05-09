@@ -85,7 +85,7 @@
                             </li>
                         </ul>
                     </li>
-                    <!--
+
                     <li class="dropdown use-yamm yamm-fw">
                         <a href=# class=dropdown-toggle data-toggle=dropdown role=button aria-haspopup=true
                             aria-expanded=false>Travel <span class=caret></span></a>
@@ -93,34 +93,33 @@
                             <li>
                                 <div class=yamm-content>
                                     <ul>
-                                        {% if site.data.main.contents.meeting.registration %}
-                                        <li><a href="{{ site.baseurl }}/registration">Registration</a></li>
+                                        {% if site.data.main.contents.meeting.osaka %}
+                                        <li><a href="{{ site.baseurl }}/about_osaka">About Osaka</a></li>
                                         {% endif %}
+
+                                        {% if site.data.main.contents.meeting.accommodation %}
+                                        <li><a href="{{ site.baseurl }}/accommodation">Accommodation</a></li>
+                                        {% endif %}
+
                                         {% if site.data.main.contents.meeting.venue %}
                                         <li><a href="{{ site.baseurl }}/venue">Venue</a></li>
                                         {% endif %}
-                                        {% if site.data.main.contents.meeting.lodging %}
-                                        <li><a href="{{ site.baseurl }}/accommodation">Accommodation</a></li>
+
+                                        {% if site.data.main.contents.meeting.travel %}
+                                        <li><a href="{{ site.baseurl }}/travel">Travel</a></li>
                                         {% endif %}
-                                        <li><a href="{{ site.baseurl }}/limassol">About Limassol</a></li>
-                                        <li><a href="{{ site.baseurl }}/cyprus">About Cyprus</a></li>
-                                        <li><a href="{{ site.baseurl }}/travel-information">Travel Information</a></li>
+
+                                        {% if site.data.main.contents.meeting.visa %}
                                         <li><a href="{{ site.baseurl }}/visa">Visa Information</a></li>
-                                        {% if site.data.main.contents.meeting.thingstodo %}
-                                        <li><a href="{{ site.baseurl }}/thingstodo">Things to do</a></li>
                                         {% endif %}
-                                        {% if site.data.main.contents.meeting.virtual %}
-                                        <li><a href="{{ site.baseurl }}/virtual">Virtual Conference</a></li>
-                                        {% endif %}
-                                        {% if site.data.main.contents.meeting.quickstart %}
-                                        <li><a href="{{ site.baseurl }}/quickstart">Quickstart</a></li>
-                                        {% endif %}
+
+
                                     </ul>
                                 </div>
                             </li>
                         </ul>
                     </li>
-                    -->
+
                     <li class="dropdown use-yamm yamm-fw">
                         <a href=# class=dropdown-toggle data-toggle=dropdown role=button aria-haspopup=true
                             aria-expanded=false>Committees <span class=caret></span></a>
@@ -134,7 +133,7 @@
                                         {% if site.data.main.contents.committees.pc %}
                                         <li><a href="{{ site.baseurl }}/pc">Program Committee</a></li>
                                         {% endif %}
-                                        <li><a href="/about/#steering-committee">Steering Committee</a></li>
+                                        <li><a href="https://www.escience-conference.org/about/#steering-committee">Steering Committee</a></li>
                                     </ul>
                                 </div>
                             </li>

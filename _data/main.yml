@@ -43,12 +43,17 @@ contents:
     panel: false
     studentprogram: false
   meeting:
-    registration: false
-    venue: false
-    lodging: false
-    thingstodo: false
-    virtual: false
-    quickstart: false
+    osaka: true
+    accommodation: true
+    venue: true
+    travel: true
+    visa: true
+    # registration: false
+    # venue: false
+    # lodging: false
+    # thingstodo: false
+    # virtual: false
+    # quickstart: false
   committees:
     organizers: true
     pc: true
