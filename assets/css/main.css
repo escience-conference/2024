@@ -21,6 +21,23 @@
 	display: table;
 }
 
+/**
+ * Custom CSS to add parantheses around the <li> bullet points.
+ */
+.parens-ol {
+    counter-reset: list;
+}
+.parens-ol > li {
+    list-style: none;
+    position: relative;
+}
+.parens-ol > li:before {
+    counter-increment: list;
+	content: "(" counter(list, lower-alpha) ") ";
+    position: absolute;
+    left: -1.75em;
+}
+
 .clearfix:after,
 .navbar:after,
 .navbar-header:after {
