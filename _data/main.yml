@@ -30,6 +30,7 @@ description: >
 
 # visibility of contents in the website
 contents:
+  registration: true
   calls:
     papers: true
     workshops: true

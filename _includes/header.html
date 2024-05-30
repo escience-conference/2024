@@ -27,6 +27,12 @@
                         <a href="{{ site.baseurl }}/registration" class=dropdown-toggle style="background-color: #fff; border-radius: .5em; color: #f06236">Register ></a>
                     </li>
                     -->
+                    {% if site.data.main.contents.registration %}
+                    <li class="use-yamm yamm-fw">
+                      <a href="{{ site.baseurl}}/registration">Register</a>
+                    </li>
+                    {% endif %}
+
                     <li class="dropdown use-yamm yamm-fw">
                         <a href=# class=dropdown-toggle data-toggle=dropdown role=button aria-haspopup=true
                             aria-expanded=false>Calls <span class=caret></span></a>
