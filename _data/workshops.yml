@@ -6,16 +6,38 @@
 #   url: https://sites.google.com/vols.utk.edu/rewords23/home
 
 - name: "Sustainable Project Pathways for HPC Software and Applications"
+  url: https://corsa.center/workshops/eScience2024
 
 - name: "INSTIL - cItizeN Science engagemenT based on Ict soLutions"
+  url: https://www.instil-science.eu/
+  # abstract: >
+  #   This workshop invites researchers who have or are interested to invested significant 
+  #   efforts in the design and development of ICT-based tools, software, serious games, eScience 
+  #   applications, and solutions to engage the general public in science.
+    
+  #   The general goal of the workshop is to act as a community venue to convey multidisciplinary 
+  #   experiences in exploring ICT solutions to raise awareness, engage and empower citizens and 
+  #   stakeholders in science with concrete eScience tools.
+
+  #   The workshop will be primarily focusing on the domains of climate, climate change, and environmental 
+  #   related topics, but experiences from other domains are welcome as well. 
 
 - name: "Impact from eScience"
+  url: https://www.nicd.org.uk/escience-2024-workshop
+  # abstract: >
+  #   The aim of the workshop will be to increase the impact from eScience by sharing experiences of 
+  #   specific impact case studies, and of programs that have been designed to increase impact outside 
+  #   of academia. The workshop is timely, and research funders world-wide are increasing the emphasis 
+  #   on the need to show impact outside of research and academia.
 
 - name: "4th ReWorDS (Reproducible Workflows, Data Management, and Security)"
+  url: https://sites.google.com/view/rewords24/home
 
 - name: "Workshop on Generative AI and FAIR Principles in Science Communication"
+  url: https://national-data-platform.github.io/ai4sc24/
 
 - name: "NRDPISI-1: Near Real-time Data Processing for Interconnected Scientific Instruments"
+  url: https://sites.google.com/charlotte.edu/nrdpisi-1
 
 - name: "5th Global Research Platform Workshop"
   url: https://www.theglobalresearchplatform.net/
