@@ -32,6 +32,22 @@
 
 - name: "4th ReWorDS (Reproducible Workflows, Data Management, and Security)"
   url: https://sites.google.com/view/rewords24/home
+  abstract: >
+    This workshop seeks to explore ideas and experiences on what kinds of infrastructure developments 
+    can improve upon the state of the art. Explorations of component packaging via containers and virtual 
+    machines, automation scripting, deployment,  portability builds, and system support for these and 
+    other relevant activities are key infrastructure. Provenance collection, exploration, and tracking 
+    are key for a well-documented scientific output. Using existing systems to achieve these goals via 
+    experiences is important for developing best practices that span application domains. Data privacy 
+    techniques such as multi-party encryption and differential privacy are important as well. Issues with 
+    managing large data sets and workflow intermediate data, particularly those intended to manage publicly 
+    accessed data for use and reuse are encouraged. New techniques and technologies that address reproducibility 
+    requirements are also requested. We seek work on all of these, and related, topics as well as position and 
+    experience papers looking to drive the conversation for practitioners and researchers in these spaces.
+    <br><br>
+    This workshop contributes by sharing experiences and exploring the various technological infrastructure 
+    needs to support effective, convenient workflow systems and application composition structures and 
+    approaches across a broad spectrum of HPC environments from clusters to supercomputers to cloud systems.
 
 - name: "Workshop on Generative AI and FAIR Principles in Science Communication"
   url: https://national-data-platform.github.io/ai4sc24/
