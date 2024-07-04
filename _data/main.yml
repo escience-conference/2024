@@ -40,7 +40,7 @@ contents:
     timetable: true
     keynotes: false
     workshops: true
-    tutorials: false
+    tutorials: true
     panel: false
     studentprogram: false
   meeting:

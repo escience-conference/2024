@@ -4,12 +4,15 @@ permalink: /tutorials
 title: Tutorials
 ---
 
-{% assign ts = site.tutorials %}
+{% assign ts = site.data.tutorials %}
 <div class="row">
     {% for t in ts %}
     <div class="col-sm-12 col-md-12" style="margin-bottom: 1em">
-        <strong style="font-size: 1.2em"><a href="{{ site.baseurl }}{{ t.url }}">{{ t.title }}</a></strong><br />
-        <i class="far fa-clock"></i> {{ t.schedule }}
+        <h3>
+            <strong style="font-size: 1.2em"><a href="{{ site.baseurl }}{{ t.url }}">{{ t.title }}</a></strong><br />
+        </h3>
+        <!-- <i class="far fa-clock"></i> {{ t.schedule }} -->
+        <p><i class="far fa-users" style="margin-right: 10px;"></i><b>{{ t.chairs }}</b></p>
         <p>{{ t.abstract }}</p>
     </div>
     {% endfor %}
