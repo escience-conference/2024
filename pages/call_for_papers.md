@@ -32,8 +32,8 @@ eScience 2024 will host the following awards, which will be announced at the con
 
 - Paper Submissions Due: <s>Monday, May 6, 2024</s>  Tuesday, May 28, 2024
 - Notification of Paper Acceptance: Monday, July 1st, 2024 
-- Poster Submissions due: Friday, July 22nd, 2024
-- Poster Acceptance Notification: Monday, July 29th , 2024
+- Poster Submissions due: Friday, August 2nd, 2024
+- Poster Acceptance Notification: Friday, August 9th, 2024
 - All Camera-ready Submissions due: Monday, August 12th, 2024
 - Conference: Sep 16-20, 2024
 
