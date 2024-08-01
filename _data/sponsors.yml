@@ -1,12 +1,19 @@
 - name: IEEE
   image: ieee.png
   kind: sponsor
+  height: 50
+
 - name: DDN
   image: DDN_Master_Logo_Portrait_CMYK_FINAL 050320.ai
   kind: gold
+  height: 150
+
 - name: CMC
-  image: cmc.png
-  kind: sponsor
+  image: cmc_transparent.png
+  kind: top
+  height: 100
+
 - name: NEC
-  image: RGB_PNG_statement_color_type2_l.png
+  image: nec.png
   kind: platinum
+  height: 150
