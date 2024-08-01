@@ -64,20 +64,65 @@ permalink: /
 
 <div class="sponsors">
     <div class="container">
+
         <h4 style="margin-bottom: 1em; color: #666">Sponsors</h4>
         {% for s in site.data.sponsors %}
-        <div class="col-sm-3 sponsor">
-            {% if s.link %}
-            <a href="{{ s.link }}" target="_blank">
+            {% if s.kind == "sponsor" %}
+            <div class="col-md-4 sponsor">
+                {% if s.link %}
+                <a href="{{ s.link }}" target="_blank">
+                    <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+                </a>
+                {% else %}
                 <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
-            </a>
-            {% else %}
-            <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+                {% endif %}
+            </div>
             {% endif %}
-        </div>
         {% endfor %}
+
+    </div>
+    
+    <div class="container">
+
+        <h4 style="margin-bottom: 1em; color: #666">Platinum Supporter</h4>
+        {% for s in site.data.sponsors %}
+            {% if s.kind == "platinum" %}
+            <div class="col-md-4 sponsor">
+                {% if s.link %}
+                <a href="{{ s.link }}" target="_blank">
+                    <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+                </a>
+                {% else %}
+                <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+                {% endif %}
+            </div>
+            {% endif %}
+        {% endfor %}
+
+    </div>
+    
+    <div class="container">
+
+        <h4 style="margin-bottom: 1em; color: #666">Gold Supporter</h4>
+        {% for s in site.data.sponsors %}
+            {% if s.kind == "gold" %}
+            <div class="col-md-4 sponsor">
+                {% if s.link %}
+                <a href="{{ s.link }}" target="_blank">
+                    <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+                </a>
+                {% else %}
+                <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" />
+                {% endif %}
+            </div>
+            {% endif %}
+        {% endfor %}
+
     </div>
     <br /><br />
+
+
+
     <!-- 
     <div class="container">
         <h4 style="margin-bottom: 1em; color: #666">Supporters</h4>

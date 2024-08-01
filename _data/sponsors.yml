@@ -1,2 +1,12 @@
 - name: IEEE
   image: ieee.png
+  kind: sponsor
+- name: DDN
+  image: DDN_Master_Logo_Portrait_CMYK_FINAL 050320.ai
+  kind: gold
+- name: CMC
+  image: cmc.png
+  kind: sponsor
+- name: NEC
+  image: RGB_PNG_statement_color_type2_l.png
+  kind: platinum
