@@ -2,11 +2,13 @@
   image: ieee.png
   kind: sponsor
   height: 50
+  link: https://www.ieee.org
 
 - name: DDN
-  image: DDN_Master_Logo_Portrait_CMYK_FINAL 050320.ai
+  image: ddn.png
   kind: gold
-  height: 150
+  height: 125
+  link: https://www.ddn.com
 
 - name: CMC
   image: cmc_transparent.png
@@ -16,4 +18,11 @@
 - name: NEC
   image: nec.png
   kind: platinum
-  height: 150
+  height: 125
+  link: https://www.nec.com
+
+- name: Intel
+  image: intel.png
+  link: https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/overview.html
+  kind: silver
+  height: 100

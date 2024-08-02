@@ -138,6 +138,26 @@ permalink: /
         {% endfor %}
 
     </div>
+
+    <div class="container">
+
+        <h4 style="margin-bottom: 1em; color: #666">Silver Supporter</h4>
+        {% for s in site.data.sponsors %}
+            {% if s.kind == "silver" %}
+            <!-- <div class="col-md-4 sponsor"> -->
+                {% if s.link %}
+                <a href="{{ s.link }}" target="_blank">
+                    <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" style="height: {{ s.height }}px;" />
+                </a>
+                {% else %}
+                <img src="{{ site.baseurl }}/images/sponsors/{{ s.image }}" alt="{{ s.name }}" style="height: {{ s.height }}px;"/>
+                {% endif %}
+            <!-- </div> -->
+            {% endif %}
+        {% endfor %}
+
+    </div>
+
     <br /><br />
 
 
