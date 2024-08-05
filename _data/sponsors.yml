@@ -1,12 +1,12 @@
 - name: IEEE
   image: ieee.png
-  kind: sponsor
-  height: 50
+  kind: sponsors
+  height: 75
   link: https://www.ieee.org
 
 - name: DDN
   image: ddn.png
-  kind: gold
+  kind: gold supporters
   height: 125
   link: https://www.ddn.com
 
@@ -17,12 +17,12 @@
 
 - name: NEC
   image: nec.png
-  kind: platinum
-  height: 125
+  kind: platinum supporters
+  height: 188
   link: https://www.nec.com
 
 - name: Intel
   image: intel.png
   link: https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/overview.html
-  kind: silver
+  kind: silver supporters
   height: 50
