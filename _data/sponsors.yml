@@ -14,6 +14,7 @@
   image: cmc_transparent.png
   kind: top
   height: 100
+  link: https://www.cmc.osaka-u.ac.jp/?lang=en
 
 - name: NEC
   image: nec.png
