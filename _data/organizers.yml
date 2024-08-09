@@ -108,3 +108,14 @@ organizers:
     role: Venue & Finance Chairs
     institution: Osaka University, Japan
     photo: soga.jpg
+
+  # POSTER CHAIR
+  - name: André Bauer
+    role: Poster Chairs
+    institution: Illinois Institute of Technology
+    photo: bauer.jpg
+
+  - name: Maryam Ekhlasi
+    role: Poster Chairs
+    institution: Polytechnique Montréal
+    photo: ekhlasi.jpg
