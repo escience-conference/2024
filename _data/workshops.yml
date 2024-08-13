@@ -112,3 +112,16 @@
     services, technologies, and infrastructures, and how these innovations can directly support
     global science research and applications. 5GRP is an open event and eScience registrants are
     welcome to attend.
+
+- name: >
+    Expanding Horizons of Data Science: 
+    Activities of the data science group of HeKKSaGOn German-Japanese university alliance and beyond
+  url: https://www.hekksagon.net/index.php
+  abstract: >
+    HeKKSaGOn stands for German-Japanese University Alliance whose member universities are 
+    Heidelberg (H), Kyoto (K), Karlsruhe (K), Tohoku (in Sendai) (S), Göttingen (G), 
+    and Osaka(O). It has ten working groups to which the data science group belongs. Activity 
+    of the data science group is focused on data science and related areas including AI, HPC, 
+    Data Management, Robotics, etc. In this workshop, the current status of ongoing data science 
+    research activities are expected to be presented by active researchers from the HeKKSaGOn 
+    member universities as well as the other related research communities.
