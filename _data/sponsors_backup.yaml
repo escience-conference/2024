@@ -1,29 +1,29 @@
-- name: CMC
-  image: cmc_transparent.png
-  kind: top
-  max_width: 250
-  link: https://www.cmc.osaka-u.ac.jp/?lang=en
-
 - name: IEEE
   image: ieee.png
   kind: sponsors
-  max_width: 200
+  height: 75
   link: https://www.ieee.org
-
-- name: NEC
-  image: nec.png
-  kind: platinum supporters
-  max_width: 250
-  link: https://www.nec.com
 
 - name: DDN
   image: ddn.png
   kind: gold supporters
-  max_width: 100
+  height: 125
   link: https://www.ddn.com
+
+- name: CMC
+  image: cmc_transparent.png
+  kind: top
+  height: 100
+  link: https://www.cmc.osaka-u.ac.jp/?lang=en
+
+- name: NEC
+  image: nec.png
+  kind: platinum supporters
+  height: 188
+  link: https://www.nec.com
 
 - name: Intel
   image: intel.png
   link: https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/overview.html
   kind: silver supporters
-  max_width: 125
+  height: 50

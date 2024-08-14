@@ -2021,7 +2021,7 @@ fieldset[disabled] .btn-template-primary.active {
 /* universal box */
 
 .box {
-	background: #fff;
+	background: none; /* #fff; */
 	margin: 0 0 30px;
 	border: solid 1px #ccc;
 	-webkit-box-sizing: border-box;
@@ -4349,12 +4349,12 @@ a.list-group-item.active>.badge,
 	width: 100%;
 	max-height: 62em;
 	padding: 1em;
-	background: #ECF1F524;
+	/* background: #ECF1F524; */
 	mix-blend-mode: normal;
 	backdrop-filter: blur(15px);
-	overflow: hidden;
-	position: absolute;
-	box-shadow: 0px 20px 53px -30px rgba(95, 102, 173, 0.566816);
+	/* overflow: hidden; */
+	/* position: absolute; */
+	/* box-shadow: 0px 20px 53px -30px rgba(95, 102, 173, 0.566816); */
 	border-radius: 10px;
 }
 
@@ -4385,7 +4385,7 @@ a.list-group-item.active>.badge,
 
 .timeline .box {
 	width: 100%;
-	background: #fbfcfd;
+	/* background: #fbfcfd; */
 	border: 0;
 }
 
@@ -4422,9 +4422,13 @@ a.list-group-item.active>.badge,
 	height: 5em;
 	background: #FFFFFF;
 	box-shadow: 0 2px 2px 0 #eeeeee40;
-	border-radius: 10px;
 	box-shadow: 0px 16px 15px -10px rgba(105, 96, 215, 0.0944602);
 	margin-bottom: 10px;
+	
+	border-radius: 10px;
+	border-style: solid;
+	border-color: #d1d6e6;
+	border-width: 1px;
 }
 
 .timeline .box .container .cards .card h4 {
@@ -4578,7 +4582,9 @@ a.list-group-item.active>.badge,
 }
 
 .sponsors .sponsor img {
+	/*
 	max-height: 4em;
+	*/
 }
 
 .tabs {
@@ -4742,4 +4748,23 @@ a.list-group-item.active>.badge,
 .papers {
 	font-weight: normal;
 	padding-left: 1em;
+}
+
+
+.outer {
+	display: grid;
+	grid-template: 1fr / 1fr;
+	place-items: center;
+}
+.outer > * {
+	grid-column: 1 / 1;
+	grid-row: 1 / 1;
+}
+.outer .below {
+	z-index: 1;
+	/* background-color: aqua; */
+}
+.outer .top {
+	z-index: 2;
+	/* background-color: brown; */
 }
