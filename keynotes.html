@@ -22,11 +22,12 @@ title: Keynotes
         </div>
         {{ k.abstract }}
         <div class="biography">
+            <hr>
             <strong>Bio.</strong> {{ k.biography }}
         </div>
         <br/>
         {% if k.slides %}
-        <a class="small" href="{{k.slides}}">Presentation slides</a>
+            <a class="small" href="{{k.slides}}">Presentation slides</a>
         {% endif %}
     </div>
     {% endfor %}

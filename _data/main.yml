@@ -38,7 +38,7 @@ contents:
     posters: false
   program:
     timetable: true
-    keynotes: false
+    keynotes: true
     workshops: true
     tutorials: true
     panel: false
