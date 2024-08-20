@@ -4,7 +4,7 @@ permalink: /keynotes
 title: Keynotes
 ---
 
-{% assign ks = site.data.keynotes %}
+{% assign ks = site.data.keynotes | sort: "order" %}
 <div class="row">
     {% for k in ks %}
     <a name="{{ k.id }}"></a>

@@ -1,5 +1,6 @@
 - title: "NASA Earth System Digital Twins: Technology and Prototypes"
   time: Thursday, September 19th, 2024 at 09:00
+  order: 1
   chair: TBD
   abstract: >
     Although Digital Twins have been used since the early 2000’s for Product Lifecycle Management purposes,
@@ -67,8 +68,9 @@
 
 ###############################################################################################################
 
-- title: "AI research in eScience and eScience Infrastructure for AI:  Proceed with Deliberation "
+- title: "AI research in eScience and eScience Infrastructure for AI:  Proceed with Deliberation"
   time: Wednesday, September 18th, 2024 at 14:00
+  order: 0
   chair: TBD
   abstract: >
     Artificial Intelligence (AI) holds considerable promise to advance science, and the societal and economic
@@ -111,3 +113,41 @@
     <br><br>
     Plale is a recipient of the US Department of Energy (DOE) Early Career award and is a senior member of ACM
     and IEEE professional societies.
+
+
+###############################################################################################################
+
+- title: "JHPC quantum project for Quantum-HPC hybrid computing platform"
+  time: Friday, September 20th, 2024 at 09:00
+  order: 2
+  chair: TBD
+  abstract: >
+    As the number of qubits in advanced quantum computers is
+    getting larger over 100 qubits, demands for the integration of
+    quantum computers and HPC are gradually growing. The quantum computing
+    technology is a promising component in near future HPC system to
+    accelerate e-Science and computational science. RIKEN R-CCS has been
+    working several projects to build a platform which integrates quantum
+    computers and HPC together. Recently, we have started JHPC quantum
+    project to design and build a quantum-supercomputer hybrid computing
+    platform which integrates different kinds of quantum computers,
+    superconducting quantum computer from IBM and trapped-ion quantum
+    computer from Quantinuum, with supercomputers including Fugaku. In
+    this presentation, the overview and plan of the JHPC quantum project
+    with a perspective of quantum HPC hybrid computing will be presented.
+
+  name: Mitsuhisa Sato
+  institution: Department of Computer Science, University of Tsukuba 
+  photo: sato.jpg
+  slides: ~
+  biography: >
+    Mitsuhisa Sato is Division director of Quantum-HPC hybrid computing
+    platform division in RIKEN Center for Computational Science (R-CCS)
+    since 2023. He was a deputy Director from 2018 to 2024, and  the
+    research team leader of programming environment research team from
+    2010 to 2024 in R-CCS, RIKEN. From 2014 to 2020, he was working as a
+    team leader of architecture development team in FLAGSHIP 2020 project
+    to develop Japanese flagship supercomputer¡¢Fugaku. Since 2023, He is a
+    Professor of Juntendo University and Professor Emeritus of University
+    of Tsukuba.
+
