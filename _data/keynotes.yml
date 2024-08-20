@@ -114,12 +114,11 @@
     Plale is a recipient of the US Department of Energy (DOE) Early Career award and is a senior member of ACM
     and IEEE professional societies.
 
-
 ###############################################################################################################
 
 - title: "JHPC quantum project for Quantum-HPC hybrid computing platform"
   time: Friday, September 20th, 2024 at 09:00
-  order: 2
+  order: 3
   chair: TBD
   abstract: >
     As the number of qubits in advanced quantum computers is
@@ -137,7 +136,7 @@
     with a perspective of quantum HPC hybrid computing will be presented.
 
   name: Mitsuhisa Sato
-  institution: Department of Computer Science, University of Tsukuba 
+  institution: Department of Computer Science, University of Tsukuba
   photo: sato.jpg
   slides: ~
   biography: >
@@ -151,3 +150,51 @@
     Professor of Juntendo University and Professor Emeritus of University
     of Tsukuba.
 
+###############################################################################################################
+
+- title: "Artificial Intelligence and the Scientific Lifecycle"
+  time: Thursday, September 19th, 2024 at 14:00
+  order: 2
+  chair: TBD
+  abstract: >
+    In addition to revolutionizing our personal lives, Artificial Intelligence
+    (AI) has entered the science arena where it is used to classify celestial
+    galaxies, predict the weather, detect cancer cells, and design new materials
+    among many other applications. Although AI has shown incredible results, it
+    raises technological issues and challenges traditional scientific methods.
+    This talk will explore how the scientific lifecycle that moves from research
+    question generation to result dissemination is changing due to the growing
+    capabilities of AI.
+
+    Broadly this talk will identify challenges that exist in adopting novel
+    AI-based approaches for the scientific lifecycle at the technological and
+    social levels. It will detail how AI is being integrated into the scientific
+    lifecycle stages, focusing in depth on the computation automation stage. This
+    stage often relies on workflow management systems (WMSs), such as Pegasus, to
+    automate the execution of application workflows on modern cyberinfrastructure.
+    Recent advances in AI provide opportunities to improve workflow performance
+    and resilience. In this context, the talk will explore the following questions:
+    How can computation automation be enhanced with AI technologies?  How is the
+    broader scientific lifecycle changing and what are the impacts of AI on the
+    way we will do science in the future?
+
+  name: Ewa Deelman
+  institution: Department of Computer Science, University of Southern California
+  photo: deelman.jpg
+  slides: ~
+  biography: >
+    Ewa Deelman received her Ph.D. in Computer Science from the Rensselaer
+    Polytechnic Institute. Following a postdoc at the UCLA she joined the
+    University of Southern California’s Information Sciences Institute (ISI)
+    in 2000, where she serves as a Research Director and leads the Science
+    Automation Technologies Center. She is also a Research Professor in the
+    USC Computer Science department and a Fellow of AAAS, IEEE, and USC/ISI.
+    Here team explores the interplay between automation and the management of
+    scientific workflows, including performance modeling, scheduling, resource
+    provisioning, provenance tracking, and data management. Dr. Deelman
+    pioneered workflow planning for computations executing in distributed
+    environments, leading to the design and development of the Pegasus Workflow
+    Management software used today in numerous science applications. In 2015, Dr.
+    Deelman received the HPDC Achievement Award for her contributions to the area
+    of scientific workflows and in 2022 she received the Euro-Par Achievement Award
+    for her outstanding contributions to parallel computing.
