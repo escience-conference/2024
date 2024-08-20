@@ -2,66 +2,112 @@
   time: Thursday, September 19th, 2024 at 09:00
   chair: TBD
   abstract: >
-    Although Digital Twins have been used since the early 2000’s for Product Lifecycle Management purposes, 
-    it is only recently that this concept has gained momentum in the Earth Science domain. It has the 
-    potential to revolutionize the way Earth Science research will be conducted in the future, and how 
-    results and knowledge from this research will provide information to support decision making and yield 
+    Although Digital Twins have been used since the early 2000’s for Product Lifecycle Management purposes,
+    it is only recently that this concept has gained momentum in the Earth Science domain. It has the
+    potential to revolutionize the way Earth Science research will be conducted in the future, and how
+    results and knowledge from this research will provide information to support decision making and yield
     impactful societal benefits.
-    
-    <br><br>
-    We define an <b><i>Earth System Digital Twin (or ESDT)</i></b> as an Information System for Understanding, 
-    Forecasting, and Conjecturing the complex interconnections among Earth systems, including 
-    anthropomorphic forcings and impacts to humanity. 
-    
-    <br><br>
-    More specifically, an Earth System Digital Twin is a dynamic and interactive information system that 
-    first provides a digital replica of the past and current states of the Earth or Earth system, as 
-    accurately and timely as possible (i.e., the <b>“What Now”</b>); second allows for computing forecasts of 
-    future states under nominal assumptions and based on the current replica (i.e., the <b>“What Next”</b>); 
-    and third offers the capability to investigate many hypothetical scenarios under varying impact 
-    assumptions (i.e., the <b>“What If”</b>). The full power of digital twins is that, through an integrated 
-    representation and standardized tools and software technologies, the same digital replica can address 
-    the needs of multiple users at various resolutions (spatial and temporal) and for various applications 
-    (science, economic, policy, etc.) – “from farmer to scientist”. 
-    
-    <br><br>
-    The challenges of building optimal digital twins are many and complex. In 2020, to study these 
-    challenges and to develop the technologies needed to build them, NASA’s Advanced Information Systems 
-    Technology (AIST) Program has started a new thrust in Earth System Digital Twins (ESDTs), 
-    investigating the benefits of ESDT for NASA Earth Science, studying specific use cases and developing 
-    technologies and components as well as a few prototype systems that will help identify building blocks 
-    from which future ESDTs will be built. All these various aspects describing NASA ESDT efforts will be 
-    presented during the talk.
 
+    <br><br>
+    We define an <b><i>Earth System Digital Twin (or ESDT)</i></b> as an Information System for Understanding,
+    Forecasting, and Conjecturing the complex interconnections among Earth systems, including
+    anthropomorphic forcings and impacts to humanity.
+
+    <br><br>
+    More specifically, an Earth System Digital Twin is a dynamic and interactive information system that
+    first provides a digital replica of the past and current states of the Earth or Earth system, as
+    accurately and timely as possible (i.e., the <b>“What Now”</b>); second allows for computing forecasts of
+    future states under nominal assumptions and based on the current replica (i.e., the <b>“What Next”</b>);
+    and third offers the capability to investigate many hypothetical scenarios under varying impact
+    assumptions (i.e., the <b>“What If”</b>). The full power of digital twins is that, through an integrated
+    representation and standardized tools and software technologies, the same digital replica can address
+    the needs of multiple users at various resolutions (spatial and temporal) and for various applications
+    (science, economic, policy, etc.) – “from farmer to scientist”.
+
+    <br><br>
+    The challenges of building optimal digital twins are many and complex. In 2020, to study these
+    challenges and to develop the technologies needed to build them, NASA’s Advanced Information Systems
+    Technology (AIST) Program has started a new thrust in Earth System Digital Twins (ESDTs),
+    investigating the benefits of ESDT for NASA Earth Science, studying specific use cases and developing
+    technologies and components as well as a few prototype systems that will help identify building blocks
+    from which future ESDTs will be built. All these various aspects describing NASA ESDT efforts will be
+    presented during the talk.
 
   name: Jacqueline Le Moigne
   institution: Earth Science Technology Office, Advanced Information Systems Technology
   photo: moigne.png
   slides: ~
   biography: >
-    Jacqueline Le Moigne is Manager of NASA Science Mission Directorate (SMD) Earth Science Technology 
-    Office’s (ESTO) Advanced Information Systems Technology (AIST) Program. The AIST Program focuses on 
-    information and software systems as well as novel computer science technologies that enable future 
+    Jacqueline Le Moigne is Manager of NASA Science Mission Directorate (SMD) Earth Science Technology
+    Office’s (ESTO) Advanced Information Systems Technology (AIST) Program. The AIST Program focuses on
+    information and software systems as well as novel computer science technologies that enable future
     Earth Science observations and missions.
 
     <br><br>
-    Prior to managing AIST, Jacqueline was the Assistant Chief for Technology in the Software Division at 
-    NASA Goddard. She was also involved with the Space Technology Mission Directorate (STMD) Space 
-    Technology Research Grants Program and with the development of NASA Space Technology Roadmaps. 
-    Before joining NASA, she was a Research Scientist with the Computer Vision Laboratory of the 
+    Prior to managing AIST, Jacqueline was the Assistant Chief for Technology in the Software Division at
+    NASA Goddard. She was also involved with the Space Technology Mission Directorate (STMD) Space
+    Technology Research Grants Program and with the development of NASA Space Technology Roadmaps.
+    Before joining NASA, she was a Research Scientist with the Computer Vision Laboratory of the
     University of Maryland. She has also worked in the private sector.
 
     <br><br>
-    Jacqueline received a Ph.D. in Computer Science from the University Pierre and Marie Curie, Paris, 
-    France. Her research interests include Image Registration, Computer Vision, Artificial Intelligence, 
-    Autonomous Systems, Distributed Spacecraft Missions (DSM), and Earth System Digital Twins (ESDT), as 
+    Jacqueline received a Ph.D. in Computer Science from the University Pierre and Marie Curie, Paris,
+    France. Her research interests include Image Registration, Computer Vision, Artificial Intelligence,
+    Autonomous Systems, Distributed Spacecraft Missions (DSM), and Earth System Digital Twins (ESDT), as
     well as high-performance and onboard computing.
 
     <br><br>
-    Jacqueline has over 180 publications including more than 30 journal papers and book chapters. She 
-    authored an edited book and earned three Patents, all in the area of Image Registration. She has 
-    been an Accreditation Board for Engineering and Technology Program Evaluator, a member of the Advisory 
-    Panel of the NATO Committee on Science for Peace and Security, an Associate Editor for the IEEE 
-    Transactions on Geoscience and Remote Sensing, and a Goddard Senior Fellow. She received a NASA 
-    Exceptional Service Medal as well as of the Goddard Information Science and Technology Award, both 
-    in 2012. 
+    Jacqueline has over 180 publications including more than 30 journal papers and book chapters. She
+    authored an edited book and earned three Patents, all in the area of Image Registration. She has
+    been an Accreditation Board for Engineering and Technology Program Evaluator, a member of the Advisory
+    Panel of the NATO Committee on Science for Peace and Security, an Associate Editor for the IEEE
+    Transactions on Geoscience and Remote Sensing, and a Goddard Senior Fellow. She received a NASA
+    Exceptional Service Medal as well as of the Goddard Information Science and Technology Award, both
+    in 2012.
+
+###############################################################################################################
+
+- title: "AI research in eScience and eScience Infrastructure for AI:  Proceed with Deliberation "
+  time: Wednesday, September 18th, 2024 at 14:00
+  chair: TBD
+  abstract: >
+    Artificial Intelligence (AI) holds considerable promise to advance science, and the societal and economic
+    well-being of the citizens.  There is much active research in applying the techniques and tools of AI to
+    a wide range of problems, as is evidenced in the programs of a wide range conferences including eScience.
+    The eScience community is rather uniquely positioned in that it investigates the use of AI in eScience
+    infrastructure while also making its tools and services available for others to carry out AI related research.
+    In the NSF funded ICICLE project (Intelligent Cyberinfrastructure for Computational Learning in the
+    Environment) in which I am a co-PI, we call this “AI for Cyberinfrastructure (AI for CI) and Cyberinfrastructure
+    for AI (CI for AI), leading to “AI for CI for AI”.
+
+    <br><br>
+    I discuss technical advancements of the ICICLE AI Institute in AI for CI for AI in the first 3 years of its
+    existence.  The project has raised broader questions beyond technical advancement, driven by its tagline
+    “democratizing AI”.  While AI research in eScience and eScience infrastructure for AI is broader than AI for
+    CI for AI, I use the latter as a launching point to discuss democratization in the context of how the eScience
+    community carries out its research.  We are unique among research communities, I argue, in that significant
+    measures of success include use of our products by others in the research community. This has been the case
+    for decades, but with AI seeping into every layer of our research ecosystem, we proceed with deliberation.
+
+  name: Beth Plale
+  institution: Intelligent Systems Engineering, Indiana University Bloomington
+  photo: plale.png
+  slides: ~
+  biography: >
+    Dr. Beth Plale is the Michael A and Laurie Burns Professor of Computer Engineering at Indiana University
+    Bloomington, where she is also the Chairperson of the Department of Intelligent Systems Engineering and
+    the Executive Director of the Pervasive Technology Institute.  As a computational scientist Plale’s
+    research interests are in software, hardware, and governance infrastructure for AI, open science,
+    provenance & reproducibility, AI ethics, and data accountability.  She is a co-PI of the US National
+    Science Foundation funded Intelligent Cyberinfrastructure for Computation in the Environment (ICICLE) AI
+    Institute and served at the US National Science Foundation (NSF) 2017 -2021.
+
+    <br><br>
+    Plale is the Executive Director of the Research Data Alliance US region (RDA-US) where she advocates for
+    trust and open science in the United States and the engagement of RDA’s international voices in topics of
+    relevance to the US.  Plale is one of the original founders of the Research Data Alliance (2013) and
+    served as an inaugural RDA Technical Advisory Board chair.
+
+    <br><br>
+    Plale is a recipient of the US Department of Energy (DOE) Early Career award and is a senior member of ACM
+    and IEEE professional societies.
