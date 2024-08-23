@@ -4,6 +4,12 @@
   max_width: 250
   link: https://www.cmc.osaka-u.ac.jp/?lang=en
 
+- name: Japan Tourism Agency
+  image: japan.png
+  kind: special sponsors
+  max_width: 400
+  link: https://www.japan.travel/en/us/
+
 - name: IEEE
   image: ieee.png
   kind: sponsors
