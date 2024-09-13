@@ -4778,13 +4778,25 @@ a.list-group-item.active>.badge,
 }
 
 .timetable ul {
+	margin-top: 10px;
 	padding-left: 15px;
 }
 
 .timetable q {
 	font-weight: normal;
 }
+
+.timetable td {
+	font-size: 10pt;
+	vertical-align: top;
+}
+
 span.authors {
 	font-style: italic;
 	font-weight: normal;
+}
+
+.sess-chair, .sess-room {
+	font-size: 10pt !important;
+	font-style: italic;
 }
